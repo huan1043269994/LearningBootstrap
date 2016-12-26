@@ -1,2 +1,2 @@
 I am your father.
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
